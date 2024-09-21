@@ -18,7 +18,7 @@ header {
     position: sticky;
     top: 0;
     z-index: 100;
-    flex-wrap: nowrap; /* Impede que os elementos quebrem para a próxima linha */
+    flex-wrap: wrap; /* Impede que os elementos quebrem para a próxima linha */
 }
 
 .container {
